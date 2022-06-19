@@ -1,6 +1,6 @@
 # hse_hw2_chip
 
-[Colab](https://colab.research.google.com/drive/1l5Xg17Y7BfFV10DjDxE8IXkPFBOIwl7L)
+# [Colab](https://colab.research.google.com/drive/1l5Xg17Y7BfFV10DjDxE8IXkPFBOIwl7L)
 ## Анализ FastQC
 Изначально я посмотрела анализ неподрезанных чтений, там было все достаточно печально. Для всех образцов per base sequence quality было в красной зоне, поэтому прилось подрезать все файлы.
 
